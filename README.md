@@ -1,6 +1,6 @@
 # Precipitaciones en Colombia
 
-#INTEGRANTES:
+#### INTEGRANTES:
 #### Nicolas Gutierrez Carreño 2152477
 #### Fabian Espitia Muñoz 2152479
 

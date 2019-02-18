@@ -17,6 +17,6 @@ https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Promedios-Precipitaci-
 
 Los datos anteriormente mostrados corresponden a la suma de los promedios mensuales de precipitación media de 30 años, considerado por la Organización Meteorologica Mundial  como el numero de años para establecer una media climatológica
 
-## Objetivos
+## Objetivo Principal
 
 El principal objetivo del proyecto, es que  mediante las diferentes caracteristicas dadas y dependiendo del lugar de colombia dado, se le determinen los valores de precipitacion por mes a lo largo de un año.

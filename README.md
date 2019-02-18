@@ -12,3 +12,5 @@ La funcion general de este proyecto es mediante una inteligencia artificial y un
 
 #### Datos o DATASET obtenidos mediante:
 https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Promedios-Precipitaci-n-y-Temperatura-media-Promed/nsxu-h2dh/data
+
+Los datos anteriormente mostrados corresponden a la suma de los promedios mensuales de precipitación y al promedio de temperatura media de 30 años, considerado por la Organización Meteorologica Mundial  como el numero de años para establecer una media climatológica

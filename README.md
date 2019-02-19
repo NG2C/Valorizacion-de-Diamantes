@@ -1,4 +1,4 @@
-  # Precipitaciones en Colombia
+  # Temperatura en diversos lugares de colombia en Colombia
 
 #### INTEGRANTES:
 #### Nicolas Gutierrez Carreño 2152477

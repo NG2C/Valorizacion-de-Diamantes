@@ -6,21 +6,21 @@
 
 
 ## Descripcion general
-La funcion general de este proyecto es mediante una inteligencia artificial y un problema de regresion, determinar el grado de temperatura promedio a lo largo del año, que se tendra en  diferentes zonas de Colombia , mediante un entrenamiento con datos acerca de la latitud, longuitud y altitud de la zona a evaluar.
+La funcion general de este proyecto es mediante una inteligencia artificial y un problema de clasificacion, dado ciertas caracteristicas acerca de un tumor detectar si este tumor es maligno o benigno, si es asi se comprueba que la persona tiene cancer de mama.
 
-<br> <p align="center"><img src="http://blogs.lainformacion.com/futuretech/files/2010/10/mama3.jpg" style="width:900px; /> </p></br>
-
-
+<br> <img src="http://blogs.lainformacion.com/futuretech/files/2010/10/mama3.jpg" style="width:900px; /> </br>
 
 
 
 
-<p>
-#### Datos o DATASET obtenidos mediante:
+
+
+
+####  Datos o DATASET obtenidos mediante:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
-</p>
+
 
 
 ## Objetivo Principal
 
-El principal objetivo del proyecto, es que  mediante las diferentes caracteristicas dadas y dependiendo del lugar de colombia dado, se le determinen los valores de temperatura promedio en el año.
+realizar un análisis sobre el cáncer de mama que contiene información sobre diferentes mediciones relacionadas a los núcleos celulares que aparecen en las imágenes digitalizadas a partir de punciones (PAAF, Punción Aspiración Aguja Fina) en tejido mamario que presenta células cancerosas. En el se detectera si el tumor que fue detectado en la imagen es benigno o maligno

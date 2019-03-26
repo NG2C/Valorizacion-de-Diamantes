@@ -12,6 +12,10 @@ La funcion general de este proyecto es mediante una inteligencia artificial y un
 
 
 
+
+
+
+
 #### Datos o DATASET obtenidos mediante:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
 

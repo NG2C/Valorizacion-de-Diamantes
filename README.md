@@ -8,7 +8,7 @@
 ## Descripcion general
 La funcion general de este proyecto es mediante una inteligencia artificial y un problema de clasificacion, dado ciertas caracteristicas acerca de un tumor detectar si este tumor es maligno o benigno, si es asi se comprueba que la persona tiene cancer de mama.
 
-<br> <img src="http://blogs.lainformacion.com/futuretech/files/2010/10/mama3.jpg" style="width:900px; /> </br>
+<br> <img src="http://blogs.lainformacion.com/futuretech/files/2010/10/mama3.jpg" style="width:900px"> </br>
 
 
 

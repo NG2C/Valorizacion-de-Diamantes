@@ -28,7 +28,7 @@ Un diamante es evaluado mediante caracteristicas especificas para asi determinar
 
 Entre las caracteristicas para el entrenamiento de nuestro modelo se analizaran las siguientes:
 
-Quilate: Peso en quilates del diamante.
+<br> Quilate: Peso en quilates del diamante. </br>
 Corte: Describe la calidad de corte del diamante. 
 Color: Color del diamante
 Claridad: Claridad del color del diamante

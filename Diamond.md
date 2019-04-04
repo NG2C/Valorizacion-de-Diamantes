@@ -33,6 +33,8 @@ Entre las caracteristicas para el entrenamiento de nuestro modelo se analizaran 
 
 <br> <img src="https://i-h1.pinimg.com/474x/5a/b7/52/5ab752447c4f5c4390adf7cba69825ba--diamond-shapes-diamond-cuts.jpg" style="width:900px"> </br>
 
+<br> <img src="https://http2.mlstatic.com/diamante-005-quilates-color-h-claridad-i2-natural-suelto-gl-D_NQ_NP_177115-MPE25174634677_112016-F.jpg" style="width:900px"> </br>
+
 
 ####  Datos o DATASET obtenidos mediante:
 https://www.kaggle.com/shivam2503/diamonds 

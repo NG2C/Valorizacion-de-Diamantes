@@ -31,7 +31,7 @@ Entre las caracteristicas para el entrenamiento de nuestro modelo se analizaran 
 <br>Y ancho mm</br>
 <br>Z profundidad mm</br>
 
-<br> <img src="https://i-h1.pinimg.com/474x/5a/b7/52/5ab752447c4f5c4390adf7cba69825ba--diamond-shapes-diamond-cuts.jpg" style="size:300px"> </br>
+<br> <img src="https://i-h1.pinimg.com/474x/5a/b7/52/5ab752447c4f5c4390adf7cba69825ba--diamond-shapes-diamond-cuts.jpg" style="size:30px"> </br>
 
 <br> <img src="https://http2.mlstatic.com/diamante-005-quilates-color-h-claridad-i2-natural-suelto-gl-D_NQ_NP_177115-MPE25174634677_112016-F.jpg" style="width:500px"> </br>
 

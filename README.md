@@ -11,14 +11,6 @@ La funcion y objetivo especifico de este proyecto es encontrar mediante una inte
 
 
 
-
-
-
-
-
-
-
-
 ## Objetivo Principal
 Un diamante es evaluado mediante caracteristicas especificas para asi determinar su valor. El objetivo de este proyecto es, mediante una inteligencia artificial y un modelo de regresion entrenado con una serie de datos con sus respectivas etiquetas, determinar el precio aproximado de una pieza de diamante.
 
@@ -29,15 +21,15 @@ Un diamante es evaluado mediante caracteristicas especificas para asi determinar
 Entre las caracteristicas para el entrenamiento de nuestro modelo se analizaran las siguientes:
 
 <br> Quilate: Peso en quilates del diamante. </br>
-Corte: Describe la calidad de corte del diamante. 
-Color: Color del diamante
-Claridad: Claridad del color del diamante
-Profundidad: La altura de un diamante, medida desde el culet a la tabla, dividida por su diámetro promedio de faja.
-Tabla: El ancho de la tabla del diamante expresado como un porcentaje de su diámetro promedio.
-Precio: El precio del diamante (us).
-X longitud mm
-Y ancho mm
-Z profundidad mm
+<br>Corte: Describe la calidad de corte del diamante. </br>
+<br>Color: Color del diamante.</br>
+<br>Claridad: Claridad del color del diamante.</br>
+<br>Profundidad: La altura de un diamante, medida desde el culet a la tabla, dividida por su diámetro promedio de faja.</br>
+<br>Tabla: El ancho de la tabla del diamante expresado como un porcentaje de su diámetro promedio.</br>
+<br>Precio: El precio del diamante (us).</br>
+<br>X longitud mm</br>
+<br>Y ancho mm</br>
+<br>Z profundidad mm</br>
 
 <br> <img src="https://i-h1.pinimg.com/474x/5a/b7/52/5ab752447c4f5c4390adf7cba69825ba--diamond-shapes-diamond-cuts.jpg" style="width:900px"> </br>
 

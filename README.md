@@ -1,6 +1,5 @@
-  # Cancer de mama
+  # Valorizacion de diamantes
 
-#### INTEGRANTES:
 #### Nicolas Gutierrez Carreño 2152477
 
 
